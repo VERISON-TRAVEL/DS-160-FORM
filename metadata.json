@@ -1,0 +1,5 @@
+
+{
+  "name": "DS-160 Applicant Form Replica",
+  "description": "A multi-step web application that replicates the applicant information sections of the U.S. DS-160 visa form. It includes features for data entry across multiple categories, a final review step, PDF generation, and form submission."
+}
